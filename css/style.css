@@ -39,6 +39,15 @@ h1,h2,h3,h4,h5,h6{
 .logo {
     float: left;
 }
+.logo_msft {
+    float: left;
+}
+.logo_apple {
+    float: left;
+}
+.logo_ebay {
+    float: left;
+}
 .w3layouts-login{
     float:right;
     margin-top: 8px;
@@ -5480,8 +5489,14 @@ abbr[title], abbr[data-original-title] {
 
 .float-right{float:right;}
 .float-left{float:left;}
+.logo_msft{width:21px;height:21px;margin-bottom: 5px;}
+.logo_apple{width:21px;height:21px;margin-bottom: 5px;}
+.logo_ebay{width:21px;height:21px;margin-bottom: 5px;}
 .logo{width:21px;height:21px;margin-bottom: 5px;}
 .symbol{font-weight: bold;}
+.symbol_msft{font-weight: bold;}
+.symbol_apple{font-weight: bold;}
+.symbol_ebay{font-weight: bold;}
 .companyName{letter-spacing: 2px;}
 .sector{}
 .change{}
